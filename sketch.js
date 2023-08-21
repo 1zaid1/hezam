@@ -86,7 +86,7 @@ function setup() {
     bake2();
   
     by = height;
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 15; i++) {
       bals.push(random(width+50)-50);
     }
   
